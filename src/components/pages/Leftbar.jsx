@@ -15,7 +15,8 @@ import React from "react";
 import MenuLink from "./MenuLink";
 import "../css/leftbar.css";
 
-export default function Leftbar() {
+export default function Leftbar()
+{
   return (
     <div className="leftbar">
       <div className="leftbarWrapper">
